@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = {:type => "MIT", :file => "LICENSE" }
   s.author       = { 'onzxgway' => 'zhuxianguo529@163.com' }
   s.source       = { :git => "https://github.com/onzxgway/ZXGSqliteCachee.git", :tag => s.version }
-  s.source_files  = 'ZXGSqliteCache'
+  s.source_files  = 'ZXGSqliteCachee'
   
   s.social_media_url   = "https://onzxgway.github.io"
   s.requires_arc = true
